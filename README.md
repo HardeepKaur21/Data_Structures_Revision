@@ -8,5 +8,6 @@ This repository stores any pieces of code I write while revising Data structures
 
 So far it covers:
   - LinkedLists
+  - Stacks
 
 Hopefully, soon there will be more!
