@@ -10,5 +10,6 @@ So far it covers:
   - LinkedLists
   - Stacks
   - Queues
+  - BinaryTrees
 
 Hopefully, soon there will be more!
