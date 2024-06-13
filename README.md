@@ -11,5 +11,6 @@ So far it covers:
   - Stacks
   - Queues
   - BinaryTrees
+  - Arrays
 
 Hopefully, soon there will be more!
