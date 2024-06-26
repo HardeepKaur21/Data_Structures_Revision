@@ -7,7 +7,7 @@ Hello!
 This repository stores any pieces of code I write while revising Data structures. 
 
 So far it covers:
-  - LinkedLists
+  - Singly LinkedLists
   - Stacks
   - Queues
   - BinaryTrees
