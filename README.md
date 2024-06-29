@@ -12,6 +12,7 @@ So far it covers:
   - Circular LinkedLists
   - Stacks
   - Queues
+      - Using Arrays
   - BinaryTrees
   - Arrays
 
