@@ -13,6 +13,7 @@ So far it covers:
   - Stacks
   - Queues
       - Using Arrays
+      - Using LinkedLists
   - BinaryTrees
   - Arrays
 
