@@ -14,6 +14,7 @@ So far it covers:
   - Queues
       - Using Arrays
       - Using LinkedLists
+  - Circular Queues
   - BinaryTrees
   - Arrays
 
