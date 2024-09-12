@@ -17,5 +17,6 @@ So far it covers:
   - Circular Queues
   - BinaryTrees
   - Arrays
+  - Collection Frames (Data Structures using Libraries)
 
 Hopefully, soon there will be more!
