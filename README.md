@@ -18,5 +18,6 @@ So far it covers:
   - BinaryTrees
   - Arrays
   - Collection Frames (Data Structures using Libraries)
+  - Binary Search
 
 Hopefully, soon there will be more!
