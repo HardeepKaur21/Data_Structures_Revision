@@ -19,5 +19,6 @@ So far it covers:
   - Arrays
   - Collection Frames (Data Structures using Libraries)
   - Binary Search
+  - Bubble Sort
 
 Hopefully, soon there will be more!
