@@ -20,5 +20,8 @@ So far it covers:
   - Collection Frames (Data Structures using Libraries)
   - Binary Search
   - Bubble Sort
+  - Unweighted Graphs
+      - Breadth first search
+      - Depth first search
 
 Hopefully, soon there will be more!
