@@ -23,5 +23,6 @@ So far it covers:
   - Unweighted Graphs
       - Breadth first search
       - Depth first search
+  - Insertion Sort
 
 Hopefully, soon there will be more!
