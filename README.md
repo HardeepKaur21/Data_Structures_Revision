@@ -24,5 +24,6 @@ So far it covers:
       - Breadth first search
       - Depth first search
   - Insertion Sort
+  - Linear Search
 
 Hopefully, soon there will be more!
