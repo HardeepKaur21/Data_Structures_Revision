@@ -25,5 +25,6 @@ So far it covers:
       - Depth first search
   - Insertion Sort
   - Linear Search
+  - Merge Sort
 
 Hopefully, soon there will be more!
