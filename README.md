@@ -27,5 +27,6 @@ So far it covers:
   - Linear Search
   - Merge Sort
   - Quick Sort
+  - Selection Sort
 
 Hopefully, soon there will be more!
