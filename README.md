@@ -11,6 +11,7 @@ So far it covers:
   - Doubly LinkedLists
   - Circular LinkedLists
   - Stacks
+      - Using Arrays
   - Queues
       - Using Arrays
       - Using LinkedLists
