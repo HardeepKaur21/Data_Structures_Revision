@@ -4,7 +4,7 @@ A Revision on Data Structures
 
 Hello!
 
-This repository stores any pieces of code I write while revising Data structures. 
+This repository stores any pieces of code I write while revising Data structures. These include:
 
 So far it covers:
   - Singly LinkedLists
@@ -30,5 +30,6 @@ So far it covers:
   - Merge Sort
   - Quick Sort
   - Selection Sort
+  - Trees
 
-Hopefully, soon there will be more!
+
